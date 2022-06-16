@@ -1,2 +1,2 @@
-# CTS
-CTS Training
+# SDET
+SDET Training
